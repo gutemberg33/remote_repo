@@ -17,7 +17,7 @@
          return $c <br/>;
          
          $c = $a * $b;
-         echo "Multiplication Operation Result: $c <br/>";
+         return $c <br/>;
          
          $c = $a / $b;
          return $c <br/>;
