@@ -20,7 +20,7 @@
          echo "Multiplication Operation Result: $c <br/>";
          
          $c = $a / $b;
-         echo "Division Operation Result: $c <br/>";
+         return $c <br/>;
          
          $c = $a % $b;
          echo "Modulus Operation Result: $c <br/>";
