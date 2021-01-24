@@ -20,7 +20,7 @@
          return $c <br/>;
          
          $c = $a / $b;
-         return $c <br/>;
+         echo "Modulus Operation Result: $c <br/>";
          
          $c = $a % $b;
          echo "Modulus Operation Result: $c <br/>";
