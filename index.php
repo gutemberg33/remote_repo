@@ -15,7 +15,7 @@
   <ul>
     <li>meat</li>
     <li>milk</li>
-    <li>lasagna</li>
+    <li>warm place</li>
   </ul>
   <p>Top 3 things cats hate:</p>
   <ol>
