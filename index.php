@@ -14,7 +14,7 @@
   <p>Things cats love:</p>
   <ul>
     <li>meat</li>
-    <li>laser pointers</li>
+    <li>milk</li>
     <li>lasagna</li>
   </ul>
   <p>Top 3 things cats hate:</p>
