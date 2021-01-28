@@ -19,7 +19,7 @@
   </ul>
   <p>Top 3 things cats hate:</p>
   <ol>
-    <li>flea treatment</li>
+    <li>cold</li>
     <li>thunder</li>
     <li>other cats</li>
   </ol>
