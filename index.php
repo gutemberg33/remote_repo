@@ -21,7 +21,7 @@
   <ol>
     <li>cold</li>
     <li>thunder</li>
-    <li>other cats</li>
+    <li>rat</li>
   </ol>
   </div>
   <form action="https://freecatphotoapp.com/submit-cat-photo">
